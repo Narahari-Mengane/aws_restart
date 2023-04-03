@@ -1,0 +1,66 @@
+    1  python --version
+    2  aws --version
+    3  s3 --version
+    4  python3
+    5  python3 Untitled1.py
+    6  clear
+    7  pwd
+    8  myString = "This is a string."
+    9  python3 Untitled2.py
+   10  python3 Untitled3.py
+   11  pwd
+   12  ls
+   13  pwd
+   14  cd Insulin
+   15  ls
+   16  prepoinsulin.txt
+   17  vim prepoinsulin.txt
+   18  cd Insulin
+   19  python3 Auto_Clean.py
+   20  cd Insulin
+   21  python3 Auto_Clean.py
+   22  python3 AddUser.py
+   23  python3 useradd
+   24  pwd
+   25  sudo useradd
+   26  sudo /etc/passwd
+   27  sudo cat /etc/passwd
+   28  cd System Administrator
+   29  pwd
+   30  cd /SystemAdministrator
+   31  cd /System_Administrator
+   32  cd Insulin
+   33  cd ..
+   34  cd System_Administrator
+   35  python3 usingOS.py
+   36  python3 usingSubProcess.py
+   37  python3 Retrieve.py
+   38  python3 Disk.py
+   39  pwd
+   40  sudo cat /etc/passwd
+   41  sudo cat /etc/group
+   42   sudo groupadd demo
+   43  sudo cat /etc/group
+   44  groups 
+   45  id -gn Hari
+   46  sudo groups
+   47  groups
+   48  groups Narahari
+   49  less /etc/group
+   50  groups Narahari
+   51  groups
+   52  docker
+   53  clear
+   54  sudo groups
+   55  id -gn Hari
+   56  sudo groups
+   57  groups
+   58  less /etc/group
+   59  groupadd abc Demo1
+   60  sudo groupadd abc Demo1
+   61  sudo groupadd -g abc Demo1
+   62  groupadd -f mygroup
+   63  sudo groupadd -f mygroup
+   64  less /etc/group
+   65  history
+   66  history | tee hisory.txt
